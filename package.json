@@ -1,0 +1,16 @@
+{
+  "name": "atom-yetiman-core",
+  "main": "./lib/atom-yetiman-core",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/atom/atom-yetiman-core",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "dustjs-linkedin": "^2.7.5",
+    "handlebars": "^4.0.6"
+  }
+}
